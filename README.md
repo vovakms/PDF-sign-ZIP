@@ -3,6 +3,7 @@
  
  Приложение Visual Studio 2017 C#, Window Forms, .NET Framework 4.5
   
+ ![Image Alt](1.png) 
  
  Краткое описание
  
